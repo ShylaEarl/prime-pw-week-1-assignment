@@ -19,4 +19,4 @@ To see the status of your files in git. For example, if there is a new file or i
 # 9 - What does the command 'git add .' do?
 Adds all files or folder to git.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push
+git push origin master
